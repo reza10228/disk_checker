@@ -1,0 +1,16 @@
+{
+	"op" : "pattern",
+	"user" : "USER",
+	"pass":  "PASSWORD",
+	"fromNum" : "FROM-Number",
+	"toNum": "TO-Number",
+	"patternCode": "ck3btyjyni",
+	"inputData" : 	[
+		{
+			"user":"Devops",
+			"problem":"/var",
+			"server":"Elassandra"
+		}	
+	]
+}
+

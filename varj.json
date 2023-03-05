@@ -1,0 +1,17 @@
+{
+	"op" : "pattern",
+	"user" : "USER",
+	"pass":  "PASSWORD",
+	"fromNum" : "FROM-Number",
+	"toNum": "TO-Number",
+	"patternCode": "PCODE",
+	"inputData" : 	[
+		{
+			"user":"Devops",
+			"problem":"Disk is Full",
+			"server":"Elassandra",
+			"directory":"/var"
+		}	
+	]
+}
+
